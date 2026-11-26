@@ -1,0 +1,14 @@
+MONGODB_URI=mongodb+srv://myUser:True@YOUR_REAL_CLUSTER.mongodb.net/?retryWrites=true&w=majority
+MONGODB_URI=mongodb+srv://myUser:myPassword@cluster0.abc123.mongodb.net/?retryWrites=true&w=majority
+
+
+POSTGRES_HOST=localhost
+POSTGRES_PORT=5432
+POSTGRES_DATABASE=traffic_db
+POSTGRES_USER=traffic_user
+POSTGRES_PASSWORD=YOUR_ACTUAL_TRAFFIC_USER_PASSWORD
+
+KAFKA_BOOTSTRAP_SERVERS=localhost:9092
+KAFKA_TOPIC=traffic-data
+
+MONGODB_DATABASE=traffic_management

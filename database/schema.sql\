@@ -1,0 +1,19 @@
+CREATE TABLE IF NOT EXISTS traffic_metrics (
+    id SERIAL PRIMARY KEY,
+    location_id VARCHAR(50),
+    location VARCHAR(100),
+    traffic_volume INTEGER,
+    avg_vehicle_speed INTEGER,
+    congestion_status VARCHAR(50),
+    recorded_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS traffic_alerts (
+    id SERIAL PRIMARY KEY,
+    location_id VARCHAR(50),
+    location VARCHAR(100),
+    alert_type VARCHAR(100),
+    traffic_volume INTEGER,
+    avg_vehicle_speed INTEGER,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
