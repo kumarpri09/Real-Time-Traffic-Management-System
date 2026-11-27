@@ -1,6 +1,6 @@
 This project is being build up using the Ubuntu and also deployed on Github.
 The project open on Web using react vite. It will show the Dashboard shown below.
-The Backend used is MongoDB, PostgreSQLO.
+The Backend used is MongoDB, PostgreSQL.
 
 
 Dashboard Image:
