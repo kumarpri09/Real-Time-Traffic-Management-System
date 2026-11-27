@@ -1,4 +1,8 @@
-Dashboard
+On exposing the project on Web using react vite. It will show the Dashboard shown below.
+The Backend used is MongoDB, PostgreSQLO.
+
+
+Dashboard Image:
 
 <img width="1472" height="707" alt="image" src="https://github.com/user-attachments/assets/3ff59a88-57c3-4223-b758-074e379a26b6" />
 
