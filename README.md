@@ -12,11 +12,9 @@ Dashboard Image:
 
 
 
-Smart Traffic Management API
-
-<img width="1887" height="751" alt="image" src="https://github.com/user-attachments/assets/6e6ea3d5-6f96-452a-802d-97fec11ea9ab" />
 
 
-<img width="1892" height="477" alt="image" src="https://github.com/user-attachments/assets/53e679e7-d84f-4eb6-ac33-c1ab3b13fa9c" />
+
+
 
 
